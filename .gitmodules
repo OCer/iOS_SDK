@@ -1,9 +1,9 @@
+[submodule "SDKTest"]
+	path = SDKTest
+	url = /Users/cer/Desktop/iOS/SDKTest
 [submodule "SDK"]
 	path = SDK
 	url = /Users/cer/Desktop/iOS/SDK
 [submodule "SDKDemo"]
 	path = SDKDemo
 	url = /Users/cer/Desktop/iOS/SDKDemo
-[submodule "SDKTest"]
-	path = SDKTest
-	url = ./SDKTest
