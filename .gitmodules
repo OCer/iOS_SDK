@@ -1,9 +1,9 @@
 [submodule "SDKTest"]
 	path = SDKTest
-	url = /Users/cer/Desktop/iOS/SDKTest
+	url = git@github.com:OCer/SDKTest.git
 [submodule "SDK"]
 	path = SDK
-	url = /Users/cer/Desktop/iOS/SDK
+	url = git@github.com:OCer/SDK.git
 [submodule "SDKDemo"]
 	path = SDKDemo
-	url = /Users/cer/Desktop/iOS/SDKDemo
+	url = git@github.com:OCer/SDKDemo.git
